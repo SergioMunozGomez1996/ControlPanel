@@ -14,6 +14,7 @@
 		C7D3A351236B5ED2003763DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7D3A350236B5ED2003763DD /* Assets.xcassets */; };
 		C7D3A354236B5ED2003763DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7D3A352236B5ED2003763DD /* LaunchScreen.storyboard */; };
 		C7D3A35F236B5ED2003763DD /* ControlPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D3A35E236B5ED2003763DD /* ControlPanelTests.swift */; };
+		C7D3A36A236B6E98003763DD /* GestorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D3A369236B6E98003763DD /* GestorPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		C7D3A35A236B5ED2003763DD /* ControlPanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ControlPanelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7D3A35E236B5ED2003763DD /* ControlPanelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlPanelTests.swift; sourceTree = "<group>"; };
 		C7D3A360236B5ED2003763DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7D3A369236B6E98003763DD /* GestorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestorPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				C7D3A350236B5ED2003763DD /* Assets.xcassets */,
 				C7D3A352236B5ED2003763DD /* LaunchScreen.storyboard */,
 				C7D3A355236B5ED2003763DD /* Info.plist */,
+				C7D3A369236B6E98003763DD /* GestorPicker.swift */,
 			);
 			path = ControlPanel;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				C7D3A34C236B5ED1003763DD /* ViewController.swift in Sources */,
 				C7D3A348236B5ED1003763DD /* AppDelegate.swift in Sources */,
 				C7D3A34A236B5ED1003763DD /* SceneDelegate.swift in Sources */,
+				C7D3A36A236B6E98003763DD /* GestorPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
